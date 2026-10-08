@@ -1,0 +1,30 @@
+# Maven
+target/
+
+# Java
+*.class
+*.jar
+
+# Reference executable for Lab 3
+!extras/*.jar
+
+# VS Code
+.vscode/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
